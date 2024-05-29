@@ -69,3 +69,5 @@ Replace the placeholder values with your actual OpenAI credentials. You can obta
    ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+Update the node modules accordingly
